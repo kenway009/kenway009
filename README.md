@@ -50,7 +50,7 @@ TESTING_PIPELINE=("Vitest (100% Pass)" "Pytest" "Hypothesis Property Testing" "R
 ```json
 {
   "ping": "guccirk028@gmail.com",
-  "location": "Bengaluru, IN",
+  "location": "Jharkhand, India",
   "availability": "Ready for high-impact contracts & bounties"
 }
 ```
