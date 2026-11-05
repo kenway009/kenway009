@@ -1,43 +1,58 @@
-### Hi there, I'm Rohan Kumar 👋
+<div align="center">
 
-```typescript
-const rohan = {
-  pronouns: "he/him",
-  code: ["TypeScript", "Python", "Go", "Rust", "React", "Node.js"],
-  technologies: {
-    frontend: ["React 18", "React Three Fiber", "Next.js", "TailwindCSS"],
-    backend: ["FastAPI", "Express", "Vitest", "Pytest", "PostgreSQL"],
-    web3: ["Stellar (Soroban)", "EVM", "Horizon API", "Optimization Engines"]
-  },
-  currentFocus: "High-performance distributed systems, Web3 bounty engineering & 3D WebGL",
-  portfolio: "https://github.com/kenway009"
-};
+# `const engineer = new RohanKumar();`
+
+```rust
+impl Contributor for RohanKumar {
+    fn status(&self) -> &'static str {
+        "Shipping clean code & solving complex distributed/3D systems."
+    }
+    fn speed(&self) -> Latency {
+        Latency::ZeroExcuses
+    }
+}
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Web3+Systems+Architect;React+18+%7C+Three.js+%7C+TypeScript+%7C+Rust;100%25+Green+Test+Suites+%26+Clean+Architecture;Autonomous+Bounty+Hunter+%40+GitHub)](https://git.io/typing-svg)
+
+---
+
+### 💻 `cat /etc/profile.d/tech_stack.sh`
+
+```bash
+CORE_LANGUAGES=("TypeScript" "Python" "Rust" "Go" "Solidity")
+GRAPHICS_AND_UI=("React 18" "React Three Fiber" "Three.js (LOD/Culling)" "TailwindCSS")
+SYSTEMS_AND_WEB3=("Stellar Soroban" "Horizon Node Ingestion" "EVM" "Distributed Checkpoints")
+TESTING_PIPELINE=("Vitest (100% Pass)" "Pytest" "Hypothesis Property Testing" "Ruff")
 ```
 
 ---
 
-### 🛠️ Tech Stack & Tooling
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stellar-08B5E5?style=for-the-badge&logo=stellar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-</p>
-
----
-
-### ⚡ GitHub Activity & Open Source Metrics
+### ⚡ System Telemetry & Live Concurrency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenway009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rohan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenway009&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kenway009&show_icons=true&theme=cyberpunk&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&bg_color=0D1117" alt="Kenway Telemetry" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenway009&layout=compact&theme=cyberpunk&hide_border=true&title_color=00F5FF&text_color=FFFFFF&bg_color=0D1117" alt="Language Matrix" width="48%" />
 </p>
 
 ---
 
-📫 **Get in Touch:**
-- Email: `guccirk028@gmail.com`
-- Contributions: Active open-source contributor across StellarSI, DevLoot, and Web3 ecosystems.
+### 🎯 Active Open-Source Impact
+
+| Cluster | Focus Vector | Benchmark / Pipeline State |
+| :--- | :--- | :--- |
+| **`LootTown`** | Web3 3D Town & Gaming | Three.js Distance Culling & Multi-Tier LOD Engine (**30/30 Tests Green**) |
+| **`StellarSI`** | Treasury & Funding Engine | Idempotency Engine, Hypothesis Property Tests, Cursor Checkpoints |
+| **`Production`** | Systems Reliability | High-throughput async ingestion, zero regression tolerance |
+
+---
+
+```json
+{
+  "ping": "guccirk028@gmail.com",
+  "location": "Bengaluru, IN",
+  "availability": "Ready for high-impact contracts & bounties"
+}
+```
+
+</div>
