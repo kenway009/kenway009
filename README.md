@@ -89,7 +89,8 @@ impl Contributor for RohanKumar {
   "ping": "guccirk028@gmail.com",
   "x_twitter": "https://x.com/guccirk028",
   "location": "India",
-  "availability": "Ready for high-impact contracts & bounties"
+  "availability": "Ready for high-impact contracts & bounties",
+  "_easter_egg": "0x506179616C"
 }
 ```
 
