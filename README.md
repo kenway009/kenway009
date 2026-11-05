@@ -66,7 +66,7 @@ impl Contributor for RohanKumar {
 {
   "ping": "guccirk028@gmail.com",
   "x_twitter": "https://x.com/guccirk028",
-  "location": "Jharkhand, India",
+  "location": "India",
   "availability": "Ready for high-impact contracts & bounties"
 }
 ```
