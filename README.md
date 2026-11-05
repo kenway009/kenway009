@@ -13,7 +13,7 @@ impl Contributor for RohanKumar {
 }
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&color1=FF007F&color2=00FF66&color3=FFD700&color4=9D00FF&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Web3+Systems+Architect;React+18+%7C+Three.js+%7C+TypeScript+%7C+Rust;100%25+Green+Test+Suites+%26+Clean+Architecture;Autonomous+Bounty+Hunter+%40+GitHub;Distributed+Consensus+%7C+High-Throughput+APIs)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F72585&background=0D111700&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Web3+Systems+Architect;React+18+%7C+Three.js+%7C+TypeScript+%7C+Rust;100%25+Green+Test+Suites+%26+Clean+Architecture;Autonomous+Bounty+Hunter+%40+GitHub;Building+High-Performance+Distributed+Systems" alt="Typing SVG" />
 
 ---
 
